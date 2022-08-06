@@ -10,7 +10,7 @@ The concept of playing Bad Apple!! on a Command Line Interface (CLI) is not a no
 
 There are many iterations and versions around YouTube and I wanted to give it a shot. The intent of posting the video on YouTube was to show a few friends of a simple weekend project that I whipped up in Python. 
 
-My own video can be found [here](https://www.youtube.com/watch?v=W0dVSEYR_0g).
+My own video can be found [here](https://www.youtube.com/watch?v=ghl9-5AzWmo&t=127s).
 
 # Running this code/Pre-requisites
 
